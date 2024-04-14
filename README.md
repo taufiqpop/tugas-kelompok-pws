@@ -1,4 +1,4 @@
-# Tugas-Kelompok-PWS
+# Tugas Kelompok PWS
 Pemrograman Web Statis (PWS) - Website Daftar Mata Kuliah & SKS Di Fakultas Komunikasi & Informatika (FKI)
 
 Anggota Kelompok :
